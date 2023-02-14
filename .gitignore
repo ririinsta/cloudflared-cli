@@ -1,2 +1,5 @@
 
 cloudflared-cli/obj/*
+cloudflared-cli/bin/*
+cloudflared-cli/.vs/*
+cloudflared-cli/.vs/cloudflared-cli/v17/.suo
